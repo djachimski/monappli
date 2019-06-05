@@ -26,9 +26,14 @@
     </dependency>
   </dependencies>
 
-   <scm>
+   <!-- local <scm>
     <connection>scm:git:file://C:\Users\orsys\Documents\Formation_IC\maven\TPs\TP3\monappli</connection>
-    <developerConnection>scm:git:file//C:\Users\orsys\Documents\Formation_IC\maven\TPs\TP3\monappli</developerConnection>
+    <developerConnection>scm:git:file://C:\Users\orsys\Documents\Formation_IC\maven\TPs\TP3\monappli</developerConnection>
+  </scm> -->
+
+   <scm> <!-- github -->
+    <connection>scm:git:https://github.com/djachimski/monappli.git</connection>
+    <developerConnection>scm:git:https://github.com/djachimski/monappli.git</developerConnection>
   </scm>
 
  <build>

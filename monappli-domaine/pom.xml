@@ -32,7 +32,7 @@
 
   <scm>
     <connection>scm:git:file://C:\Users\orsys\Documents\Formation_IC\maven\TPs\TP3\monappli\monappli-domaine</connection>
-    <developerConnection>scm:git:file//C:\Users\orsys\Documents\Formation_IC\maven\TPs\TP3\monappli\monappli-domaine</developerConnection>
+    <developerConnection>scm:git:file://C:\Users\orsys\Documents\Formation_IC\maven\TPs\TP3\monappli\monappli-domaine</developerConnection>
   </scm>
 
   <build>
